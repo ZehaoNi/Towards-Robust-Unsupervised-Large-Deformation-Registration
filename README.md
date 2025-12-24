@@ -41,7 +41,8 @@ pyyaml (for configuration management)
 
 🏗️ Method Overview
 The core of our proposed ARE-Net is an adaptive robust dual-enhanced architecture with three innovative components. The following diagram illustrates the overall framework:
-[Fig2.pdf](https://github.com/user-attachments/files/24323034/Fig2.pdf)
+
+
 
 
 1. Adaptive Dual-Enhanced Feature Fusion (ADFF) Framework
