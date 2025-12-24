@@ -60,7 +60,10 @@ RN Module (Residual ConvNeXt): Performs efficient downsampling while preserving 
 A plug-and-play component that enhances deformation field consistency:
 
 Stochastic Deformation Generation: Uses Monte Carlo dropout to generate multiple deformation field samples during forward propagation.
+
 Uncertainty Quantification: Computes voxel-wise variance across deformation field ensembles to quantify predictive uncertainty.
+
+Robustness Optimization: Applies uncertainty-aware loss to penalize prediction variance, enforcing solution consistency without additional computational overhead.
 
 
 
